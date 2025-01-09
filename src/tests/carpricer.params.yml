@@ -1,0 +1,17 @@
+model:
+  baseline: 
+    objective: reg:squarederror
+    min_child_weight: 4
+    colsample_bytree: .7
+    n_estimators: 200
+  tune:
+    cv: 5
+    objective: neg_mean_squared_error
+    search:
+      learning_rate: [.003, .05, .07,]
+      max_depth: [3, 20]
+      alpha: [0, .5]
+      subsample: [.7, 1]
+data:
+  label: lnprice
+  test_size: 0.3

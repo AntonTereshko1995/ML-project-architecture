@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/a/ML-project-architecture/notebooks/mlruns/0/ad1f982328d6428d9ca6916110e898d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad1f982328d6428d9ca6916110e898d7
+run_name: abrasive-boar-79
+run_uuid: ad1f982328d6428d9ca6916110e898d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736260114630
+status: 1
+tags: []
+user_id: a

@@ -1,0 +1,41 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.1
+mlflow_version: 2.19.0
+model_size_bytes: 214186
+model_uuid: 561aaa35d8a14e90a7a31412773a328a
+run_id: cfd46a353537489cb153a72015ec4f3c
+signature:
+  inputs: '[{"type": "string", "name": "make", "required": true}, {"type": "string",
+    "name": "fuel-type", "required": true}, {"type": "string", "name": "aspiration",
+    "required": true}, {"type": "string", "name": "num-of-doors", "required": true},
+    {"type": "string", "name": "body-style", "required": true}, {"type": "string",
+    "name": "drive-wheels", "required": true}, {"type": "string", "name": "engine-location",
+    "required": true}, {"type": "double", "name": "wheel-base", "required": true},
+    {"type": "double", "name": "length", "required": true}, {"type": "double", "name":
+    "width", "required": true}, {"type": "double", "name": "height", "required": true},
+    {"type": "double", "name": "curb-weight", "required": true}, {"type": "string",
+    "name": "engine-type", "required": true}, {"type": "string", "name": "num-of-cylinders",
+    "required": true}, {"type": "double", "name": "engine-size", "required": true},
+    {"type": "string", "name": "fuel-system", "required": true}, {"type": "double",
+    "name": "bore", "required": true}, {"type": "double", "name": "stroke", "required":
+    true}, {"type": "double", "name": "compression-ratio", "required": true}, {"type":
+    "double", "name": "horsepower", "required": true}, {"type": "double", "name":
+    "peak-rpm", "required": true}, {"type": "double", "name": "city-mpg", "required":
+    true}, {"type": "double", "name": "highway-mpg", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1,
+    1]}}]'
+  params: null
+utc_time_created: '2025-01-09 13:49:15.955889'

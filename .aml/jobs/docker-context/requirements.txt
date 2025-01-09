@@ -1,0 +1,10 @@
+jobtools
+xgboost
+matplotlib
+pandas
+numpy
+scikit-learn
+sklearn_evaluation
+mlflow
+azureml-mlflow
+papermill

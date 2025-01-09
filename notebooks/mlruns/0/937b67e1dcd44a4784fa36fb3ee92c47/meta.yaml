@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/a/ML-project-architecture/notebooks/mlruns/0/937b67e1dcd44a4784fa36fb3ee92c47/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 937b67e1dcd44a4784fa36fb3ee92c47
+run_name: upset-mink-634
+run_uuid: 937b67e1dcd44a4784fa36fb3ee92c47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736427082384
+status: 1
+tags: []
+user_id: a

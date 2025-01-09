@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/a/ML-project-architecture/notebooks/mlruns/0/4d232dab6b6f48a6998fcc0143991c1a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d232dab6b6f48a6998fcc0143991c1a
+run_name: monumental-lynx-575
+run_uuid: 4d232dab6b6f48a6998fcc0143991c1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736426889392
+status: 1
+tags: []
+user_id: a

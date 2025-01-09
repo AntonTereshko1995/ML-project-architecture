@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/a/ML-project-architecture/notebooks/mlruns/0/cfd46a353537489cb153a72015ec4f3c/artifacts
+end_time: 1736430563280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfd46a353537489cb153a72015ec4f3c
+run_name: polite-asp-801
+run_uuid: cfd46a353537489cb153a72015ec4f3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736428584091
+status: 3
+tags: []
+user_id: a

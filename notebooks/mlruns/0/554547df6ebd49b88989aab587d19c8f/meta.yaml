@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/a/ML-project-architecture/notebooks/mlruns/0/554547df6ebd49b88989aab587d19c8f/artifacts
+end_time: 1736432070683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 554547df6ebd49b88989aab587d19c8f
+run_name: popular-perch-371
+run_uuid: 554547df6ebd49b88989aab587d19c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736431945908
+status: 3
+tags: []
+user_id: a
